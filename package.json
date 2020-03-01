@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "build-css": "node-sass css/theme.scss > css/theme.css"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
